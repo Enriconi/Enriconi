@@ -3,6 +3,6 @@
 ```bash
 > help --about
 > linkedin: enriconi
-> tech stack: '.js', '.ts', '.html', '.css'
+> current tech stack: '.js', '.ts', '.html', '.scss'
 > 📖: competitive programming
 ```
